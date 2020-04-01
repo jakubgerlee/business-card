@@ -62,6 +62,7 @@
 }
 
 .person__photo {
+  flex-shrink: 0;
   width: 100%;
   max-width: 148px;
   width: 148px;
